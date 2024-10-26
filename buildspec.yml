@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'dist'  # Adjust this based on your actual build directory
+  discard-paths: no
